@@ -1,4 +1,4 @@
-# CAPV Weather App
+# Botxo Clima
 
 A modern React Native weather application for the Basque Country Autonomous Community (CAPV) that provides detailed weather forecasts using the AEMET (Spanish State Meteorological Agency) API.
 
@@ -27,7 +27,7 @@ Before you begin, ensure you have the following installed:
 1. Clone the repository:
 ```bash
 git clone https://github.com/roseateros/botxo-clima.git
-cd capv-weather-app
+cd botxo-clima
 ```
 
 2. Install dependencies:
@@ -69,7 +69,7 @@ yarn android
 ## Project Structure
 
 ```
-capv-weather-app/
+botxo-clima/
 ├── src/
 │   ├── components/
 │   │   └── WeatherDisplay.js
