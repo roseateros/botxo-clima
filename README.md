@@ -2,8 +2,6 @@
 
 A modern React Native weather application for the Basque Country Autonomous Community (CAPV) that provides detailed weather forecasts using the AEMET (Spanish State Meteorological Agency) API.
 
-![CAPV Weather App](https://via.placeholder.com/600x300)
-
 ## Features
 
 - 🌡️ Detailed weather forecasts for CAPV municipalities
